@@ -18,4 +18,4 @@ I am currently a 5th year Ph.D. candidate in the Department of Computer Science 
 
 {% include_relative _includes/publications.md %}
 
-#{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
