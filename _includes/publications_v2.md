@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<h3 id="publications" style="margin: 2px 0px -15px;">Conference Papers</h3>
+<h3 id="publications" style="margin: 2px 0px -5px;">Conference Papers</h3>
 
 {% for link in site.data.publications.main %}
 
@@ -20,7 +20,7 @@
 -->
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="pub-detail">
-        <div style="color: red; margin-right: 10px;">{{ \[link.conference_short\] }}</div>
+        <div style="color: red; margin-right: 10px;">{{ link.conference_short }}</div>
         <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       </div>
       <div class="author">{{ link.authors }}</div>
