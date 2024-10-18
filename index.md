@@ -12,15 +12,12 @@ Back in 2020, I received my first B.Eng. in Electronic and Information Engineeri
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Internet of Things:** architecture, low-power communication
+- **Wireless Sensing:** integrated sensing and communication (ISAC)
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[18 Oct. 2024]** Hello world! - this page is online :)
 
 {% include_relative _includes/publications.md %}
 
