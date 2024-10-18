@@ -2,7 +2,7 @@ main:
 
   - title: Processor-Sharing Internet of Things Architecture for Large-Scale Deployment
     authors: <strong>Qianhe Meng</strong>, Han Wang, Chong Zhang, Yihang Song, Songfan Li, Li Lu, and Hongzi Zhu
-    conference_short: SenSys 2024
+    conference_short: [SenSys'24]
     conference: The 22nd ACM Conference on Embedded Networked Sensor Systems
 #    pdf: https://arxiv.org/pdf/2306.00988.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
