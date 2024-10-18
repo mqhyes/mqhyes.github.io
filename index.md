@@ -3,14 +3,14 @@ layout: homepage
 ---
 
 ## About Me
+hello there thanks for your visit :)
 
-Hello there. Thanks for your intest:)
-I am currently a 5th year Ph.D. candidate in the Department of Computer Science and Engineering (CSE) at the University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Li Lu. 
-Back in 2020, I received my first B.Eng. in Electronic and Information Engineering (EIE) from UESTC and the second in Electronic and Electrical Engineering (EEE) from the University of Glasgow (UoG).
+I am currently a 5th year Ph.D. candidate in the Department of Computer Science and Engineering (CSE) at University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Li Lu. 
+Back in 2020, I received my first B.Eng. in Electronic and Information Engineering (EIE) from UESTC and the second in Electronic and Electrical Engineering (EEE) from University of Glasgow.
 
 ## Research Interests
 
-- **Internet of Things:** architecture, low-power communication
+- **Internet of Things:** architecture/platform, low-power communication
 - **Wireless Sensing:** integrated sensing and communication (ISAC)
 
 ## News
