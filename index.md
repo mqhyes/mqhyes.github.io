@@ -16,6 +16,6 @@ I am currently a 5th year Ph.D. candidate in the Department of Computer Science 
 
 - **[18 Oct. 2024]** Hello world! - this page is online :)
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications_v2.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
