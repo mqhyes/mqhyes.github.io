@@ -1,11 +1,12 @@
 ---
 layout: homepage
 ---
-hello there thanks for your visit :)
+Hello there, thanks for your visit :)
 
 ## About Me
 
 I am currently a 5th year Ph.D. candidate in the Department of Computer Science and Engineering (CSE) at University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Li Lu. 
+
 Back in 2020, I received my first B.Eng. in Electronic and Information Engineering (EIE) from UESTC and the second in Electronic and Electrical Engineering (EEE) from University of Glasgow.
 
 ## Research Interests
