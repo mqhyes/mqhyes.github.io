@@ -20,8 +20,12 @@
 -->
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="pub-detail">
-         <div class="title">{{ link.conference_short }}</div>
-         <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+        <!-- 使用一个div包含conference_short和title，使它们在同一行显示，并加粗显示 -->
+        <div class="pub-header">
+          <!-- 将conference_short放在红色方括号内 -->
+          <strong><span style="color: red; font-weight: bold;">[{{ link.conference_short }}]</span></strong>
+          <div class="title"><a href="{{ link.pdf }}" style="font-weight: bold;">{{ link.title }}</a></div>
+        </div>
       </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
