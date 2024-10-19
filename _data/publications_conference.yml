@@ -42,7 +42,7 @@ main:
 
   - title: Online ECG Emotion Recognition for Unknown Subjects via Hypergraph-Based Transfer Learning
     authors: Yalan Ye, Tongjie Pan, <strong>Qianhe Meng</strong>, Jingjing Li, and Li Lu
-    conference_short: IJCAI'23
+    conference_short: IJCAI'22
     conference: The 31st International Joint Conference on Atificial Intelligence
     pdf: https://mqhyes.github.io/
 #    code: https://github.com/MrGiovanni/ContinualLearning
