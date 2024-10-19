@@ -20,7 +20,7 @@ main:
 #    image: ./assets/img/teaser_example_2.png
     notes: CCF-B
     
-- title: "Online unsupervised domain adaptation via reducing inter-and intra-domain discrepancies"
+  - title: "Online unsupervised domain adaptation via reducing inter-and intra-domain discrepancies"
     authors: Yalan Ye, Tongjie Pan, <strong>Qianhe Meng</strong>, Jingjing Li, Heng Tao Shen
     conference_short: TNNLS'22
     conference: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022
