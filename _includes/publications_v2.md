@@ -5,7 +5,7 @@
 
 <h3 id="publications" style="margin: 2px 0px 5px;">Conference Papers</h3>
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.publications_conference.main %}
 
 <li>
 <div class="pub-row">
