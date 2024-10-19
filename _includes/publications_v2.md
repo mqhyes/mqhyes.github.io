@@ -21,7 +21,7 @@
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="pub-detail">
          {% if link.conference_short %}
-         <div class="conference_short">{{ link.conference_short }}</div>
+         <div style="color: red; margin-right: 10px;">{{ link.conference_short }}</div>
          {% endif %}
          <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       </div>
