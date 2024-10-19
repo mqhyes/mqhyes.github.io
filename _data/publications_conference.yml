@@ -23,7 +23,7 @@ main:
   - title: Go Beyond RFID Rethinking the Design of RFID Sensor Tags for Versatile Applications
     authors: Songfan Li, <strong>Qianhe Meng</strong>, YanXu Bai, Chong Zhang, Yihang Song, Shengyu Li, and Li Lu
     conference_short: MobiCom'23
-    conference: The 29th Annual International Conference on Mobile Computing and Networking
+    conference: The 29th ACM International Conference on Mobile Computing and Networking
     pdf: https://mqhyes.github.io/
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
