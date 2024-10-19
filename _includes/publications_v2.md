@@ -19,7 +19,8 @@
   </div>
 -->
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="pub-detail"><div class="pub-header"><strong><span style="color: red; font-weight: bold;">[{{ link.conference_short }}]</span></strong><div class="title"><a href="{{ link.pdf }}" style="font-weight: bold;">{{ link.title }}</a></div></div>
+      <div class="pub-detail">
+        <strong><span style="color: red; font-weight: bold;">[{{ link.conference_short }}]</span> <a href="{{ link.pdf }}" style="font-weight: bold;">{{ link.title }}</a></strong>
       </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
