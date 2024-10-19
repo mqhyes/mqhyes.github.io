@@ -1,8 +1,10 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<div class="publications">
-<ol class="bibliography">
 <!-- ################################################################################### -->
+
+<div class="publications_conference">
+<ol class="bibliography_conference">
+
 <h3 id="publications" style="margin: 2px 0px 10px;">Conference Papers</h3>
 
 {% for link in site.data.publications_conference.main %}
@@ -52,7 +54,14 @@
 
 {% endfor %}
 
+</ol>
+</div>
+
 <!-- ################################################################################### -->
+
+<div class="publications_journal">
+<ol class="bibliography_journal">
+
 <h3 id="publications" style="margin: 2px 0px 10px;">Journal Papers</h3>
 
 {% for link in site.data.publications_journal.main %}
@@ -101,9 +110,6 @@
 <br>
 
 {% endfor %}
-
-
-
 
 </ol>
 </div>
