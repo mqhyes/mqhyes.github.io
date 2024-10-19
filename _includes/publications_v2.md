@@ -62,7 +62,7 @@
 <div class="publications_journal">
 <ol class="bibliography_journal">
 
-<h3 id="publications" style="margin: 2px 0px 10px;">Journal Papers</h3>
+<h3 id="publications" style="margin: -20px 0px 10px;">Journal Papers</h3>
 
 {% for link in site.data.publications_journal.main %}
 
