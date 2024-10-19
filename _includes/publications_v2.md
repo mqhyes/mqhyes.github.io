@@ -20,9 +20,7 @@
 -->
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="pub-detail">
-         {% if link.conference_short %}
          <div class="title">{{ link.conference_short }}</div>
-         {% endif %}
          <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       </div>
       <div class="author">{{ link.authors }}</div>
