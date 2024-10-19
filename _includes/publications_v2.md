@@ -53,7 +53,7 @@
 {% endfor %}
 
 <!-- ################################################################################### -->
-<h3 id="publications" style="margin: 2px 0px 5px;">Journal Papers</h3>
+<h3 id="publications" style="margin: 2px 0px -15px;">Journal Papers</h3>
 
 {% for link in site.data.publications_journal.main %}
 
