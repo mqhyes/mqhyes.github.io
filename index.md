@@ -9,7 +9,7 @@ I am currently a 5th year Ph.D. candidate in the Department of Computer Science 
 
 ## Research Interests
 
-I am self-motivated to make contributions in the following research fields, providing enlightening technical insights and system-level solutuons.
+I am self-motivated to make contributions in the following research fields, providing enlightening technical insights and system-level solutions.
 
 - **Internet of Things:** architecture, low-power communication
 - **Wireless Sensing:** integrated sensing and communication (ISAC)
