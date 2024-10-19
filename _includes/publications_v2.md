@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -5px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 5px;">Publications</h2>
 
 <!-- ################################################################################### -->
 
