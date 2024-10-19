@@ -18,6 +18,4 @@ I am currently a 5th year Ph.D. candidate in the Department of Computer Science 
 
 {% include_relative _includes/publications_v2.md %}
 
-### Journal Papers
-
 <!-- {% include_relative _includes/services.md %} -->
