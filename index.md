@@ -16,6 +16,7 @@ I am self-motivated to work in the following research fields, contributing techn
 
 ## News
 
+- **[08 Nov. 2024]** The slides of RFBus is attached below. - check it out :)
 - **[18 Oct. 2024]** Hello world! - this page is online :)
 
 {% include_relative _includes/publications_v2.md %}
