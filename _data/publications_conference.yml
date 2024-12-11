@@ -8,7 +8,7 @@ main:
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
 #    image: ./assets/img/teaser_example_2.png
-    notes: Core A* (Best Paper Award)
+    notes: Core A*; Best Paper Award (1 out of 313)
 
   - title: "Sisyphus: Redefining Low Power for LoRa Receiver"
     authors: Han Wang, Yihang Song, <strong>Qianhe Meng</strong>, Zetao Gao, Chong Zhang, and Li Lu
