@@ -1,3 +1,3 @@
 ## Honors & Awards
 
-- Best Paper Award at SenSys 2024
+- Best Paper Award @ ACM SenSys 2024
