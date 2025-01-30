@@ -24,7 +24,7 @@ main:
     authors: Han Wang, Yihang Song, <strong>Qianhe Meng</strong>, Zetao Gao, Chong Zhang, and Li Lu
     conference_short: MobiCom'24
     conference: The 30th ACM International Conference on Mobile Computing and Networking
-    pdf: ./assets/files/[MobiCom'24]Sisyphus-slides.pdf
+    slides: ./assets/files/[MobiCom'24]Sisyphus-slides.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
 #    image: ./assets/img/teaser_example_2.png
