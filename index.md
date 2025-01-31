@@ -24,6 +24,7 @@ I am self-motivated to work in the following research fields, contributing techn
 
 {% include_relative _includes/honors.md %}
 
+<div style="text-align: center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=200&t=n&d=FmQ5kiXswnP_YZuArH8qTTl_AO9bWgSjP0wmUzPx9ys"></script>
-
+</div>
 <!-- {% include_relative _includes/services.md %} -->
