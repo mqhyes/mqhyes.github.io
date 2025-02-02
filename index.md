@@ -5,7 +5,7 @@ Hello there, thanks for your visit :)
 
 ## About Me
 
-I am currently a 5th year Ph.D. candidate in CSE at the University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Li Lu. Back in 2020, I received my dual B.Eng. degrees in EIE from UESTC and in EEE from the University of Glasgow. <u>I am currently seeking postdoctoral or lecturer positions starting in 2026.</u>
+I am currently a 5th year Ph.D. candidate in CSE at the University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Li Lu. Back in 2020, I received my dual B.Eng. degrees in EIE from UESTC and in EEE from the University of Glasgow. <u>I am currently seeking lecturer or postdoctoral positions starting in 2026.</u>
 
 
 
