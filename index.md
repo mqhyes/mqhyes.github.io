@@ -11,7 +11,7 @@ I am currently a 5th year Ph.D. candidate in the Department of Computer Science 
 
 I am self-motivated to work in the following research fields, contributing technical insight and system-level solutions.
 - **Internet of Things:** system architecture, low-power wireless communication
-- **Wireless Sensing:** Integrated Sensing And Communication (ISAC)
+- **Wireless Sensing:** Integrated Sensing and Communication (ISAC)
 - **Edge Intelligence:** cloud-edge collaborative inference
 
 ## News
