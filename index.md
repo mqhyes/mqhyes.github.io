@@ -26,7 +26,7 @@ I am self-motivated to work in the following research fields, contributing techn
 
 {% include_relative _includes/honors.md %}
 
-<!-- {% include_relative _includes/services_v2.md %} -->
+{% include_relative _includes/services_v2.md %}
 
 {% include_relative _includes/publications_v2.md %}
 
