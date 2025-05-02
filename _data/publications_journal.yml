@@ -9,6 +9,7 @@ main:
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
 #    image: ./assets/img/teaser_example_2.png
     notes: CiteScore 12.9, h-index 122
+    
 
   - title: "A Lightweight and Chip-Level Reconfigurable Architecture for Next-Generation IoT End Devices"
     authors: Chong Zhang, Songfan Li, Yihang Song, <strong>Qianhe Meng</strong>, Li Lu, Hongzi Zhu and Xin Wang
