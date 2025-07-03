@@ -6,7 +6,8 @@ Hello there, thanks for your visit :)
 ## About Me
 
 I am currently a 5th year Ph.D. candidate in CS at the University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Li Lu. Back in 2020, I received my dual B.Eng. degrees in EE from UESTC and in EEE from the University of Glasgow (UofG).
-<!-- I will be joining Harbin Institute of Technology (HIT) as a Tenure-Track Associate Research Fellow in early 2026. -->
+
+<!-- I will be joining Harbin Institute of Technology (HIT) as a Tenure-Track Associate Research Fellow in early 2026. Openings are available for master (Fall 2026) and Ph.D. (Fall 2026). Please contact qianhe@hit.edu.cn with your CV if you are interested. -->
 
 
 <!--I am currently a 5th year Ph.D. candidate in the Department of Computer Science and Engineering (CSE) at the University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Li Lu. Back in 2020, I received my dual B.Eng. degrees in Electronic and Information Engineering (EIE) from UESTC and in Electronic and Electrical Engineering (EEE) from the University of Glasgow (UofG).-->
