@@ -7,8 +7,8 @@ Hello there, thanks for your visit :)
 
 I am currently a 5th year Ph.D. candidate in CS at University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Li Lu. Back in 2020, I received my dual B.Eng. degrees in EE from UESTC and in EEE from University of Glasgow (UofG).
 
-<!-- I will be joining Harbin Institute of Technology (HIT) as an Associate Research Fellow in early 2026. Openings are available for master (Fall 2026), please contact qianhe@hit.edu.cn with your CV if you are interested. -->
-
+<!-- I will be joining Harbin Institute of Technology (HIT) as an Associate Research Fellow (tenure-track) in early 2026. **Openings are available for master students @ HIT Weihai Campus, please contact qianhe@hit.edu.cn with your CV if you are self-motivated and interested in IoT architecture.** -->
+<!-- I'm constantly looking for prospective PhD students, expected to work on AIoT (AI+IoT) systems and applications. -->
 
 <!--I am currently a 5th year Ph.D. candidate in the Department of Computer Science and Engineering (CSE) at the University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Li Lu. Back in 2020, I received my dual B.Eng. degrees in Electronic and Information Engineering (EIE) from UESTC and in Electronic and Electrical Engineering (EEE) from the University of Glasgow (UofG).-->
 
