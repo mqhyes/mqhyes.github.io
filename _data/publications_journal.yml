@@ -8,7 +8,7 @@ main:
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
 #    image: ./assets/img/teaser_example_2.png
-    notes: The Flagship Quarterly Publication of ACM SIGMOBILE
+    notes: The Flagship Quarterly Publication of ACM SIGMOBILE (Research Highlight)
 
   - title: "Embedding Chips Over the Air: Rethink IoT Architecture for Ubiquitous Sensing"
     authors: <strong>Qianhe Meng</strong>, Han Wang, Chong Zhang, Yihang Song, Songfan Li, Li Lu and Hongzi Zhu
