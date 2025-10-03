@@ -2,7 +2,7 @@ main:
 
   - title: "The What's Next IoT Architecture for Large-scale Deployment"
     authors: <strong>Qianhe Meng</strong>, Han Wang, Chong Zhang, Yihang Song, Songfan Li, Li Lu and Hongzi Zhu
-   conference_short: GetMobile'25
+    conference_short: GetMobile'25
     conference: ACM Mobile Computing and Communications Review (GetMobile), 2025
 #    pdf: https://mqhyes.github.io/
 #    code: https://github.com/MrGiovanni/ContinualLearning
