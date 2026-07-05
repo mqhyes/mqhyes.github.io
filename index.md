@@ -23,7 +23,7 @@ layout: homepage
   About Me
 </h2>
 
-Welcome! I am **<font face="Georgia">Han Wang</font>**, currently pursuing my Ph.D. at the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I initially joined UESTC as a master's student before transitioning directly into the Ph.D. program, where I am fortunate to be advised by Prof. [Li Lu](https://www.en.scse.uestc.edu.cn/info/1085/2182.htm). I received my B.S. in Computer Science and Technology from [Tianjin University](https://en.tju.edu.cn/) in 2022, where I greatly appreciated the mentorship of Assoc. Prof. [Xinyu Tong](https://tjutxy.com/). My research broadly focuses on *low-power wireless systems*.
+Welcome! I am **<font face="Georgia">Han Wang</font>**, currently pursuing my Ph.D. at the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I initially joined UESTC as a master's student before transitioning directly into the Ph.D. program, where I am fortunate to be advised by Prof. [Li Lu](https://www.en.scse.uestc.edu.cn/info/1085/2182.htm). I received my B.S. in Computer Science and Technology from [Tianjin University](https://en.tju.edu.cn/) in 2022, where I appreciated the mentorship of Assoc. Prof. [Xinyu Tong](https://tjutxy.com/). My research broadly focuses on *low-power wireless systems*.
 
 <h2 class="section-header">
   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#21409a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
