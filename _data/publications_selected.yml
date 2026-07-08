@@ -1,4 +1,17 @@
 main:
+    - title: "Hades: A Hardware-Resident Substrate for Energy Admission in Intermittent Computing"
+      authors: <strong>Han Wang</strong>, Chong Zhang, Qianhe Meng, Yize Zhao, Ruizhe Zhang, and Li Lu
+      conference_short: MICRO '26
+      conference: The 59th IEEE/ACM International Symposium on Microarchitecture
+      year: 2026
+      #pdf: ./assets/files/Sisyphus_mobicom24.pdf
+      #slides: ./assets/files/Sisyphus_slides.pdf
+#     bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_sisyphus.png
+      notes: CCF-A
+      type: CONFERENCE
+
+
     - title: "Sisyphus: Redefining Low Power for LoRa Receiver"
       authors: <strong>Han Wang</strong>, Yihang Song, Qianhe Meng, Zetao Gao, Chong Zhang, and Li Lu
       conference_short: MobiCom '24
