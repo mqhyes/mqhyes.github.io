@@ -46,6 +46,7 @@ Welcome! I am **<font face="Georgia">Han Wang</font>**, currently pursuing my Ph
   News
 </h2>
 
+- **<font color="3A5FCD" face="Georgia">[Jul. 2026]</font>** Our paper ***'Hades'*** on runtime-free energy admission has been accepted to **MICRO '26**.
 - **<font color="3A5FCD" face="Georgia">[Oct. 2025]</font>** Our paper ***'μMan'*** on device-agnostic energy management for battery-free IoT has been accepted to **SenSys '26**.
 - **<font color="3A5FCD" face="Georgia">[Apr. 2025]</font>** Our paper ***'LEGO+'*** on comprehensive redundancy removal for IoT sensing systems has been accepted to **MobiSys '25**.
 - **<font color="3A5FCD" face="Georgia">[Nov. 2024]</font>** 🎉 Our paper ***'RFBus'*** won the [BEST PAPER AWARD](https://sensys.acm.org/2024/award/) at **SenSys '24**! (1 out of 313 submissions).
